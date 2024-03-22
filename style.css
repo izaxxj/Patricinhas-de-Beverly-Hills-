@@ -1,0 +1,18 @@
+body{
+    text-align:center;
+    background-color: rgb(255, 0, 128);
+    font-size: 40px;
+    font-style: inherit;
+  }  
+  
+  #album
+  {
+    height:450px;
+    border-radius:30px;
+  }
+  button
+  {
+  background-color:#ffa6e1;
+    border-radius: 50px;
+    font-size: 25px;
+  }
